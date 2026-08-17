@@ -39,5 +39,16 @@ print(comb)
 
 
 vec = [-4,-2,0,3,4]
-double=[x**2 for x in vec]
-print(double) 
+
+# create a new list with the values doubled
+#double=[x**2 for x in vec]
+#print(double) 
+
+# filter the list to exclude negative numbers
+#exclude_negative = [ x for x in vec if x <0]
+#print(exclude_negative)
+
+# apply a function to all the elements
+remove_negative = [abs(x) for x in vec]
+print(remove_negative)
+
