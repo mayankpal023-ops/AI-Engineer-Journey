@@ -1,0 +1,6 @@
+{"P001": { "name": "John Doe", "age": 30, "gender": "Male", "height": 175, "weight": 70, "bmi": 22.86, "verdict":"Obese"},
+ "P002": { "name": "Jane Smith", "age": 25, "gender": "Female", "height": 160, "weight": 55, "bmi": 21.48, "verdict":"Normal"},
+ "P003": { "name": "Alice Johnson", "age": 40, "gender": "Female", "height": 165, "weight": 80, "bmi": 29.38, "verdict":"Overweight"},
+ "P004": { "name": "Bob Brown", "age": 35, "gender": "Male", "height": 180, "weight": 90, "bmi": 27.78, "verdict":"Overweight"},
+ "P005": { "name": "Charlie Davis", "age": 28, "gender": "Male", "height": 170, "weight": 60, "bmi": 20.76, "verdict":"Normal"}
+}
